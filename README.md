@@ -4,11 +4,11 @@
 
 - ✋ Hi, this is Tanvir.
 - 🏆 I’m currently working in Full-Stack development.
-- 🎯 2026 Goal: Become a problem-solver & AI expert.
+- 🎯 2026 Goal: Become a problem-solving expert.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
 - 📧 Reach me anytime at **tanvir.cse18@gmail.com**
 - 🤝 I’m looking forward to contributing to open source and collaborating with passionate tech enthusiasts.
-- 🚀 Future Goal: More Deep dive into System design & LLM.
+- 🚀 Future Goal: More deep dives into System design & LLMs.
 
 </br>
 
