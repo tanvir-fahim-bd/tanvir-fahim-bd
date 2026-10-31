@@ -3,12 +3,12 @@
 </br>
 
 - ✋ Hi, this is Tanvir.
-- 🏆 I’m currently working in Full-Stack development.
-- 🎯 2026 Goal: Become a problem-solving expert.
+- 🏆 I’m currently working in Full-Stack development and system design.
+- 🎯 2026 Goal: To be a Codeforces Candidate Master.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
-- 📧 Reach me anytime at **tanvir.cse18@gmail.com**
-- 🤝 I’m looking forward to contributing to open source and collaborating with passionate tech enthusiasts.
-- 🚀 Future Goal: More deep dives into System design & LLMs.
+- 📧 Reach me anytime at **tanvir.fahim.swe@gmail.com**
+- 🤝 I’m looking forward to contributing to open source projects.
+- 🚀 Future Goal: To be an expert in DevOps & Agentic development.
 
 </br>
 
@@ -18,9 +18,9 @@
 
 ```json
 {
-  "languages": ["PHP", "JS", "C++"],
+  "languages": ["JS", "PHP" ],
   "frontend" : ["Next.js", "React.js"],
-  "backend"  : ["Laravel", "Node.js", "Express.js"],
+  "backend"  : ["Node.js", "Laravel"],
   "database" : ["MYSQL", "MongoDB"]
 }
 ```
