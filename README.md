@@ -35,14 +35,6 @@
    <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
 </p>
 
-### MY GITHUB STATUS
-
-<br/>
-  <p>
-  <a href="#" title="🚀 Github Stats"><img src="https://github-readme-stats.vercel.app/api?username=TanvirFahimBD&show_icons=true&theme=prussian&hide_border=true&count_private=true&show_owner=true" alt="TanvirFahimBD's Github Status"/>
-  </a>
-  </p>
-
 </br>
 
 <a href="https://app.daily.dev/tanvircse18"><img src="https://api.daily.dev/devcards/v2/jitqrezxwBOagCdirQaCc.png?type=default&r=azo" width="356" alt="Tanvir Hossain's Dev Card"/></a>
