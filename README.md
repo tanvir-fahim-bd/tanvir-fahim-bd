@@ -29,49 +29,46 @@
 
 <br />
 
-### MY SKILLS & TECHNOLOGIES
+<h2 align="center">🚀 MY SKILLS & TECHNOLOGIES</h2>
 
-**Languages:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
-</p>
-
-**CSS Frameworks & Libraries:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
-</p>
-
-**JavaScript Frameworks & Libraries:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
-</p>
-
-**Database & ORM:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
-</p>
-
-**Deployment Platforms:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
-</p>
-
-**Design & Graphics:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-**Tools & Technologies:**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Languages</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>CSS Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>JavaScript Frameworks & Libraries</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Database & ORM</h3>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Deployment Platforms</h3>
+      <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Design & Graphics</h3>
+      <img src="https://skillicons.dev/icons?i=figma" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>Tools & Technologies</h3>
+      <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
+    </td>
+  </tr>
+</table>
 
 ### MY GITHUB STREAK
 
