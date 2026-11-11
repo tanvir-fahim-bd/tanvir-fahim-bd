@@ -7,7 +7,7 @@
 - ✋ Hi, this is Tanvir. A SWE.
 - 🏆 I’m currently working in Full-Stack development and system design.
 - 🎯 2026 Goal: To be a Codeforces Candidate Master.
-- 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
+- 💻 Portfolio: [tanvir-fahim-bd.netlify.app](https://tanvir-fahim-bd.netlify.app/)
 - 📧 Reach me anytime at **tanvir.fahim.swe@gmail.com**
 - 🤝 I’m looking forward to contributing to open source projects.
 - 🚀 Future Goal: To be an expert in DevOps & Agentic development.
