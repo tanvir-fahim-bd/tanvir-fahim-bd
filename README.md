@@ -29,6 +29,50 @@
 
 <br />
 
+### MY SKILLS & TECHNOLOGIES
+
+**Languages:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php" />
+</p>
+
+**CSS Frameworks & Libraries:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
+</p>
+
+**JavaScript Frameworks & Libraries:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
+</p>
+
+**Database & ORM:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" />
+</p>
+
+**Deployment Platforms:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
+</p>
+
+**Design & Graphics:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+**Tools & Technologies:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
+</p>
+
 ### MY GITHUB STREAK
 
 </br>
