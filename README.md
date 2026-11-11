@@ -29,7 +29,7 @@
 
 <br />
 
-<h2 align="center">🚀 MY SKILLS & TECHNOLOGIES</h2>
+### MY SKILLS & TECHNOLOGIES
 
 <table width="100%">
   <tr>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>JavaScript Frameworks & Libraries</h3>
+      <h3>Frameworks & Libraries</h3>
       <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
     </td>
     <td width="50%" valign="top">
@@ -63,7 +63,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td width="50%" valign="top">
       <h3>Tools & Technologies</h3>
       <img src="https://skillicons.dev/icons?i=windows,ubuntu,notion,git,github,vscode,postman,docker" />
     </td>
