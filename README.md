@@ -1,8 +1,10 @@
-<!-- <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"> -->
+<p align="center">
+  <img src="./assets/github-banner.png" width="100%" />
+</p>
 
 </br>
 
-- ✋ Hi, this is Tanvir.
+- ✋ Hi, this is Tanvir. A SWE.
 - 🏆 I’m currently working in Full-Stack development and system design.
 - 🎯 2026 Goal: To be a Codeforces Candidate Master.
 - 💻 Portfolio: [tanvir-fahim-portfolio.netlify.app](https://tanvir-fahim-portfolio.netlify.app/)
