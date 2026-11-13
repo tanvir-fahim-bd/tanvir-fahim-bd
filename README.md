@@ -75,7 +75,7 @@
 </br>
 
 <p>
-   <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirFahimBD&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
+   <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-fahim-bd&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
 </p>
 
 </br>
