@@ -29,6 +29,17 @@
 
 <br />
 
+
+### MY GITHUB STREAK
+
+</br>
+
+<p>
+   <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-fahim-bd&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
+</p>
+
+</br>
+
 ### MY SKILLS & TECHNOLOGIES
 
 <table width="100%">
@@ -70,15 +81,6 @@
   </tr>
 </table>
 
-### MY GITHUB STREAK
-
-</br>
-
-<p>
-   <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-fahim-bd&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
-</p>
-
-</br>
 
 <a href="https://app.daily.dev/tanvircse18"><img src="https://api.daily.dev/devcards/v2/jitqrezxwBOagCdirQaCc.png?type=default&r=azo" width="356" alt="Tanvir Hossain's Dev Card"/></a>
 
