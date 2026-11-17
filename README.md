@@ -38,6 +38,15 @@
    <img title="🔥 Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-fahim-bd&theme=prussian&hide_border=true&stroke=0000&background=060A0CD0"  alt="TanvirFahimBD's streak"/>
 </p>
 
+### CONNECT WITH ME
+
+</br>
+
+[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanvir-fahim-bd/)
+[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@tanvir.cse18)
+[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/tanvirfahimbd)
+[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=gmail&logoColor=white">](mailto:tanvir.cse18@gmail.com)
+
 </br>
 
 ### MY SKILLS & TECHNOLOGIES
@@ -81,17 +90,8 @@
   </tr>
 </table>
 
-
-### CONNECT WITH ME
-
 </br>
 
-[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/tanvir-fahim-bd/)
-[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=medium&logoColor=white">](https://medium.com/@tanvir.cse18)
-[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=dev.to&logoColor=white">](https://dev.to/tanvirfahimbd)
-[<img src="https://img.shields.io/badge/TanvirFahim-151515?style=for-the-badge&logo=gmail&logoColor=white">](mailto:tanvir.cse18@gmail.com)
-
-</br>
 
 <!-- <a href="https://app.daily.dev/tanvircse18"><img src="https://api.daily.dev/devcards/v2/jitqrezxwBOagCdirQaCc.png?type=default&r=azo" width="356" alt="Tanvir Hossain's Dev Card"/></a>
 
